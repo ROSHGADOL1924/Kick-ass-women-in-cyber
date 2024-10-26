@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Script to highlight inspirational women in cybersecurity
+
+# Title
+echo "Inspiration in Cybersecurity: Chris Kubecka and Jen Easterly"
+echo "------------------------------------------------------------"
+
+# Introduction
+echo "Chris Kubecka and Jen Easterly are two remarkable women in cybersecurity who have made significant contributions to the field."
+echo "Their achievements serve as an inspiration for many aspiring women in cybersecurity."
+echo ""
+
+# Chris Kubecka
+echo "1. Chris Kubecka"
+echo "   - A pioneer in cybersecurity, Chris is known for her expertise in incident response and threat intelligence."
+echo "   - She has worked on high-stakes projects, demonstrating the critical role women play in protecting digital infrastructure."
+echo "   - Chris's advocacy for diversity in tech encourages more women to enter the field."
+echo ""
+
+# Jen Easterly
+echo "2. Jen Easterly"
+echo "   - Currently the Director of the Cybersecurity and Infrastructure Security Agency (CISA), Jen is a leader in national cybersecurity policy."
+echo "   - Her work emphasizes the importance of collaboration and resilience in cybersecurity."
+echo "   - Jen is a strong advocate for empowering women in technology, serving as a role model for the next generation."
+echo ""
+
+# Personal Reflection
+echo "Drawing Inspiration"
+echo "-------------------"
+echo "Both Chris and Jen have opened doors for countless women in cybersecurity."
+echo "Their accomplishments inspire me to pursue my own path in this field."
+echo "Knowing that they have achieved so much motivates me to continue pushing forward."
+echo ""
+
+# Commitment to Future Generations
+echo "Opening More Lanes"
+echo "-------------------"
+echo "I am committed to not only advancing my career but also helping to pave the way for future women in cybersecurity."
+echo "By sharing knowledge, mentoring others, and advocating for diversity, I aim to contribute to a more inclusive field."
+echo ""
+
+# Conclusion
+echo "In conclusion, the journeys of Chris Kubecka and Jen Easterly remind us that with determination and collaboration, we can all make a difference."
+echo "Together, we can build a stronger and more diverse cybersecurity community."
+
+# End of script
